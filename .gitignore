@@ -1,0 +1,12 @@
+books
+lib
+include
+bin
+man
+share
+
+.Python
+.ipynb_checkpoints/
+
+pip-selfcheck.json
+finetuneas/
